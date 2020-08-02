@@ -1,16 +1,25 @@
-# food_hero_app_flutter
+# Hero Food UI-Flutter
 
-A new Flutter application.
+The UI gives some basic understanding of flutter widgets.
 
-## Getting Started
+## Widget Used: 
 
-This project is a starting point for a Flutter application.
+- MaterialApp
+- ListView
+- Container
+- Row
+- Padding
+- Text
+- SizedBox
+- Center
+- Hero 
+- Image
+- IconButton .. & more
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ ### Image 
+  
+-![Image](https://1.bp.blogspot.com/-j7wnnuBPmCo/XyYEgx_oubI/AAAAAAAAAa4/YG4GHxzgBmA7ZLUKkuaL2Ts-K73TyDh1QCLcBGAsYHQ/s1600/github_screen.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
