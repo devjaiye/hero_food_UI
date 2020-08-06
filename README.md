@@ -2,7 +2,7 @@
 
 The UI gives some basic understanding of flutter widgets.
 
-## Widget Used: 
+## Widgets Used: 
 
 - MaterialApp
 - ListView
